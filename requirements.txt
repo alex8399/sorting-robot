@@ -1,0 +1,10 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+colorzero==2.0
+gpiozero==2.0.1
+idna==3.7
+logging==0.4.9.6
+requests==2.32.3
+setuptools==70.2.0
+urllib3==2.2.2
+RPi.GPIO==0.7.1
