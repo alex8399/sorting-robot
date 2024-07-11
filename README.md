@@ -37,7 +37,7 @@ The robot sorts black and white disks and discards objects of other colors. The 
  * Tactile Pushbutton Switch Momentary
  * DuPont Jumper wires (Female-Female, Male-Male, Female-Male)
 
-## Installation
+## How to run
 The folowing actions must be done on Raspberry Pi 3B with installed Python 3.10+.
 
 ### Installation 
