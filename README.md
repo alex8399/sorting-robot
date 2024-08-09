@@ -2,16 +2,16 @@
 
 The robot sorts black and white disks and discards objects of other colors. The robot is intended to simulate an airport conveyor belt: dispatching international (black disks) and domestic (white disks) baggage and discarding foreign objects (objects of other colors) from the conveyor belt. The project is described in detail on the [poster for presentation](/presentation/poster.pdf).
 
-## Elements of robot
-- **Disc dispenser.** Disc dispensers dispense black, white, and other colored disks onto the conveyor belt.
+## Elements of the Robot
+- **Disc dispenser:** Disc dispensers dispense black, white, and other colored disks onto the conveyor belt.
 
-- **Conveyer.** The conveyer transported discs.
+- **Conveyer:** The conveyer transported discs.
 
-- **Motion sensor.** The motion sensor detects the presence of a disk on the conveyor belt.
+- **Motion sensor:** The motion sensor detects the presence of a disk on the conveyor belt.
 
-- **Color sensor.** The color sensor emits visible light and, based on the reflection, detects if an object is white, black, or another color.
+- **Color sensor:** The color sensor emits visible light and, based on the reflection, detects if an object is white, black, or another color.
 
-- **Disc rotating sorter.** The sorter rotates to dispense each disk into the correct box.
+- **Disc rotating sorter:** The sorter rotates to dispense each disk into the correct box.
 
 ## Image
 ![Image1](/presentation/image01.jpg)
